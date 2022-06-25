@@ -23,7 +23,8 @@ source /Users/ziyiouyang/.gvm/scripts/gvm
 ```
 gvm listall
 ```
-# Write your first go program name main.go with following content, and put it under $HOME/go/src/hello
+# Write your first go program.
+##### name it main.go with following content, and put it under $HOME/go/src/hello
 ```
 package main
 
